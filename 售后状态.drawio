@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T10:03:23.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="TF3zzHrXZlELAFmtfqdv" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T10:13:52.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fzKlC5W9ElrVO7JlkzA0" version="16.6.3" type="github">
   <diagram id="_88M4rZaeOAy3bHlZC3f" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,9 @@
         <mxCell id="zeThhd6Teq3FZmINj7KF-2" value="取消退货" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IqyMs4pkEaya7170j3vu-51" target="zeThhd6Teq3FZmINj7KF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zeThhd6Teq3FZmINj7KF-5" value="驳回" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IqyMs4pkEaya7170j3vu-51" target="zeThhd6Teq3FZmINj7KF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IqyMs4pkEaya7170j3vu-51" value="&lt;span&gt;待总部处理（50）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1030" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -193,6 +196,12 @@
         </mxCell>
         <mxCell id="zeThhd6Teq3FZmINj7KF-3" value="&lt;pre style=&quot;background-color: #ffffff ; color: #000000 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #808080 ; font-style: italic&quot;&gt;/**&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #808080 ; font-style: italic&quot;&gt; * &lt;/span&gt;&lt;span style=&quot;color: #808080 ; font-style: italic ; font-family: &amp;#34;宋体&amp;#34; , monospace&quot;&gt;检测审核通过&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #808080 ; font-style: italic ; font-family: &amp;#34;宋体&amp;#34; , monospace&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #808080 ; font-style: italic&quot;&gt;*/&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #000080 ; font-weight: bold&quot;&gt;int &lt;/span&gt;&lt;span style=&quot;color: #660e7a ; font-weight: bold ; font-style: italic&quot;&gt;CHECK_VERIFY_ADOPT &lt;/span&gt;= &lt;span style=&quot;color: #0000ff&quot;&gt;71&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: #ffffff ; color: #000000 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #0000ff&quot;&gt;这个状态已经不使用了&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="30" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zeThhd6Teq3FZmINj7KF-4" value="驳回（51）" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zeThhd6Teq3FZmINj7KF-6" value="注意：有的情况驳回为51，有的为-81" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="600" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
