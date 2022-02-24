@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T03:53:59.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="W_ZEkijAVdtVY0MANWAs" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T04:05:49.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Jlbl0TX-NJAG-ERYlmC7" version="16.6.1" type="github">
   <diagram id="_88M4rZaeOAy3bHlZC3f" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,13 +23,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IqyMs4pkEaya7170j3vu-5" value="待检测（40）" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="430" y="55" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="52.5" width="100" height="85" as="geometry" />
         </mxCell>
         <mxCell id="IqyMs4pkEaya7170j3vu-7" value="检测驳回（-71）" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="220" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="225" y="180" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IqyMs4pkEaya7170j3vu-11" value="待总部处理" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="630" y="60" width="120" height="80" as="geometry" />
+        <mxCell id="IqyMs4pkEaya7170j3vu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="IqyMs4pkEaya7170j3vu-11" target="IqyMs4pkEaya7170j3vu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-16" value="驳回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="IqyMs4pkEaya7170j3vu-15">
+          <mxGeometry x="-0.3137" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-18" value="通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.569;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="IqyMs4pkEaya7170j3vu-11" target="IqyMs4pkEaya7170j3vu-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-11" value="待总部处理（50）" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-13" value="这里注意一下：售后工单页面这里是待总部处理，值为50。枚举类里面50的注释为，待商务处理。（80为待总部处理，80废弃了！）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="15" width="270" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-14" value="总部驳回（-81）" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="830" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-20" value="销售出库单【仓库确认】" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="IqyMs4pkEaya7170j3vu-17" target="IqyMs4pkEaya7170j3vu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-17" value="处理中（60）" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="190" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-19" value="已完成（100）" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IqyMs4pkEaya7170j3vu-21" value="申请售后【退换退货】" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="29" width="140" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
