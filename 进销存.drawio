@@ -34,11 +34,6 @@
         <mxCell id="9bAV4iDaCewVaVFpZhyE-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="支付成功" vertex="1">
           <mxGeometry height="50" width="70" x="290" y="265" as="geometry" />
         </mxCell>
-        <mxCell id="9bAV4iDaCewVaVFpZhyE-15" edge="1" parent="1" source="9bAV4iDaCewVaVFpZhyE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9bAV4iDaCewVaVFpZhyE-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="478" y="137" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GVKssT9AvyQaVMVPeHK4-17" edge="1" parent="1" source="9bAV4iDaCewVaVFpZhyE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="GVKssT9AvyQaVMVPeHK4-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="413.5" y="161.5" as="sourcePoint" />
@@ -193,11 +188,14 @@
         <mxCell id="GVKssT9AvyQaVMVPeHK4-59" edge="1" parent="1" source="GVKssT9AvyQaVMVPeHK4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GVKssT9AvyQaVMVPeHK4-58" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-66" edge="1" parent="1" source="GVKssT9AvyQaVMVPeHK4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9bAV4iDaCewVaVFpZhyE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVKssT9AvyQaVMVPeHK4-56" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="异常" vertex="1">
           <mxGeometry height="80" width="80" x="399" y="-23.5" as="geometry" />
         </mxCell>
         <mxCell id="GVKssT9AvyQaVMVPeHK4-58" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" value="异常单" vertex="1">
-          <mxGeometry height="80" width="120" x="520" y="-23.5" as="geometry" />
+          <mxGeometry height="50" width="60" x="409" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="GVKssT9AvyQaVMVPeHK4-64" edge="1" parent="1" source="GVKssT9AvyQaVMVPeHK4-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="GVKssT9AvyQaVMVPeHK4-13">
           <mxGeometry relative="1" as="geometry">
