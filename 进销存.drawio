@@ -39,6 +39,14 @@
             <mxPoint x="468" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-14" edge="1" parent="1" source="9bAV4iDaCewVaVFpZhyE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="GVKssT9AvyQaVMVPeHK4-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="440" />
+              <mxPoint x="860" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9bAV4iDaCewVaVFpZhyE-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="检测" vertex="1">
           <mxGeometry height="45" width="50" x="408" y="352" as="geometry" />
         </mxCell>
@@ -62,6 +70,34 @@
         </mxCell>
         <mxCell id="9bAV4iDaCewVaVFpZhyE-19" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="采购表" vertex="1">
           <mxGeometry height="52.5" width="50" x="290" y="348.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-3" edge="1" parent="1" source="GVKssT9AvyQaVMVPeHK4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="252.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="95" width="100" x="580" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-5" edge="1" parent="1" source="GVKssT9AvyQaVMVPeHK4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="252.5" as="sourcePoint" />
+            <mxPoint x="830" y="252.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-12" edge="1" parent="1" source="GVKssT9AvyQaVMVPeHK4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="251.29999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="是否合格" vertex="1">
+          <mxGeometry height="80" width="80" x="820" y="211.25" as="geometry" />
+        </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;检测/收货&lt;/span&gt;" vertex="1">
+          <mxGeometry height="37.5" width="73" x="680" y="232.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GVKssT9AvyQaVMVPeHK4-13" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="库存表" vertex="1">
+          <mxGeometry height="55" width="70" x="950" y="232.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
