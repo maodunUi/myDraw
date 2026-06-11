@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="s3CgnVwbfZmktE_ADOAM">
-    <mxGraphModel dx="1653" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,6 +37,9 @@
         <mxCell id="GVKssT9AvyQaVMVPeHK4-81" edge="1" parent="1" source="9bAV4iDaCewVaVFpZhyE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GVKssT9AvyQaVMVPeHK4-80" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8hWod6TTKWvcKmEvH4T0-15" edge="1" parent="1" source="9bAV4iDaCewVaVFpZhyE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="GVKssT9AvyQaVMVPeHK4-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9bAV4iDaCewVaVFpZhyE-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="收货" vertex="1">
           <mxGeometry height="45" width="74" x="298" y="619.5" as="geometry" />
         </mxCell>
@@ -59,9 +62,6 @@
           <mxGeometry height="50" width="50" x="210" y="528.5" as="geometry" />
         </mxCell>
         <mxCell id="GVKssT9AvyQaVMVPeHK4-70" edge="1" parent="1" source="9bAV4iDaCewVaVFpZhyE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9bAV4iDaCewVaVFpZhyE-9" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GVKssT9AvyQaVMVPeHK4-86" edge="1" parent="1" source="9bAV4iDaCewVaVFpZhyE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GVKssT9AvyQaVMVPeHK4-85" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9bAV4iDaCewVaVFpZhyE-19" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="采购表" vertex="1">
