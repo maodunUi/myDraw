@@ -29,6 +29,14 @@
         <mxCell id="AmzQcyvE6vDkLWidxVXR-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="属性&amp;nbsp;&lt;br&gt;N" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="160" as="geometry" />
         </mxCell>
+        <mxCell id="yKbhPn4r4hcxx-XKSXkL-22" edge="1" parent="1" source="AmzQcyvE6vDkLWidxVXR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yKbhPn4r4hcxx-XKSXkL-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKbhPn4r4hcxx-XKSXkL-23" connectable="0" parent="yKbhPn4r4hcxx-XKSXkL-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="0.375" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AmzQcyvE6vDkLWidxVXR-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="裁剪检测模版" vertex="1">
           <mxGeometry height="60" width="120" x="-150" y="300" as="geometry" />
         </mxCell>
@@ -86,6 +94,9 @@
         </mxCell>
         <mxCell id="yKbhPn4r4hcxx-XKSXkL-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="检测图片" vertex="1">
           <mxGeometry height="60" width="120" x="680" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="yKbhPn4r4hcxx-XKSXkL-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="模版选项" vertex="1">
+          <mxGeometry height="60" width="120" x="-150" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
