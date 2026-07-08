@@ -107,10 +107,10 @@
           <mxGeometry height="60" width="120" x="-150" y="440" as="geometry" />
         </mxCell>
         <mxCell id="yKbhPn4r4hcxx-XKSXkL-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="外观成色&lt;div&gt;功能等级&lt;/div&gt;&lt;div&gt;严重程度&lt;/div&gt;&lt;div&gt;选项类型&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="160" x="200" y="390" as="geometry" />
+          <mxGeometry height="70" width="160" x="200" y="400" as="geometry" />
         </mxCell>
         <mxCell id="yKbhPn4r4hcxx-XKSXkL-27" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="检测规则" vertex="1">
-          <mxGeometry height="80" width="80" x="300" y="438" as="geometry" />
+          <mxGeometry height="80" width="80" x="300" y="450" as="geometry" />
         </mxCell>
         <mxCell id="yKbhPn4r4hcxx-XKSXkL-30" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="检测选项属性" vertex="1">
           <mxGeometry height="60" width="120" x="480" y="450" as="geometry" />
