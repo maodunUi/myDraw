@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="LA-jy7n6BKZQzUcaMMq-">
+    <mxGraphModel dx="1245" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AmzQcyvE6vDkLWidxVXR-7" edge="1" parent="1" source="AmzQcyvE6vDkLWidxVXR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AmzQcyvE6vDkLWidxVXR-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmzQcyvE6vDkLWidxVXR-9" edge="1" parent="1" source="AmzQcyvE6vDkLWidxVXR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AmzQcyvE6vDkLWidxVXR-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmzQcyvE6vDkLWidxVXR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1&lt;br&gt;检测模版&amp;nbsp; 1" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="AmzQcyvE6vDkLWidxVXR-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="属性&amp;nbsp;&lt;br&gt;N" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AmzQcyvE6vDkLWidxVXR-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="N 裁剪检测模版" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
