@@ -7,20 +7,30 @@
         <mxCell id="AmzQcyvE6vDkLWidxVXR-7" edge="1" parent="1" source="AmzQcyvE6vDkLWidxVXR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AmzQcyvE6vDkLWidxVXR-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yKbhPn4r4hcxx-XKSXkL-19" connectable="0" parent="AmzQcyvE6vDkLWidxVXR-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="0.375" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AmzQcyvE6vDkLWidxVXR-9" edge="1" parent="1" source="AmzQcyvE6vDkLWidxVXR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AmzQcyvE6vDkLWidxVXR-8" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yKbhPn4r4hcxx-XKSXkL-20" connectable="0" parent="AmzQcyvE6vDkLWidxVXR-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
+          <mxGeometry relative="1" x="0.6667" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yKbhPn4r4hcxx-XKSXkL-2" edge="1" parent="1" source="AmzQcyvE6vDkLWidxVXR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yKbhPn4r4hcxx-XKSXkL-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AmzQcyvE6vDkLWidxVXR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1&lt;br&gt;检测模版&amp;nbsp; 1" vertex="1">
+        <mxCell id="AmzQcyvE6vDkLWidxVXR-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="检测模版&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="300" as="geometry" />
         </mxCell>
         <mxCell id="AmzQcyvE6vDkLWidxVXR-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="属性&amp;nbsp;&lt;br&gt;N" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="AmzQcyvE6vDkLWidxVXR-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="N 裁剪检测模版" vertex="1">
-          <mxGeometry height="60" width="120" x="-120" y="300" as="geometry" />
+        <mxCell id="AmzQcyvE6vDkLWidxVXR-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="裁剪检测模版" vertex="1">
+          <mxGeometry height="60" width="120" x="-150" y="300" as="geometry" />
         </mxCell>
         <mxCell id="yKbhPn4r4hcxx-XKSXkL-1" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="N&lt;br&gt;检测选项" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="440" as="geometry" />
@@ -30,10 +40,10 @@
         </mxCell>
         <mxCell id="yKbhPn4r4hcxx-XKSXkL-17" connectable="0" parent="yKbhPn4r4hcxx-XKSXkL-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="N" vertex="1">
           <mxGeometry relative="1" x="0.3625" y="3" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yKbhPn4r4hcxx-XKSXkL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="实例&lt;br&gt;1" vertex="1">
+        <mxCell id="yKbhPn4r4hcxx-XKSXkL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="实例" vertex="1">
           <mxGeometry height="60" width="120" x="280" y="160" as="geometry" />
         </mxCell>
         <mxCell id="yKbhPn4r4hcxx-XKSXkL-7" edge="1" parent="1" source="yKbhPn4r4hcxx-XKSXkL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AmzQcyvE6vDkLWidxVXR-1" value="">
